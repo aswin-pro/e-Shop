@@ -46,7 +46,7 @@ export const mockData = [
     image: Image6,
     name: "Dove Shampoo",
     price: 49.99,
-    rating:"5,308 ratings ⭐ ⭐ ⭐ ⭐ ⭐"
+    rating:"5,308 ratings ⭐ ⭐ ⭐ ⭐"
   },
   {
     id: 5,
