@@ -27,7 +27,7 @@ e-Shop is a fully functional e-commerce website that allows users to browse prod
 
 ## How to View
 
-You can explore the e-Shop by visiting 
+You can explore the e-Shop by visiting https://e-shop-flame-pi.vercel.app/
 
 ## Contributing
 
